@@ -1,4 +1,4 @@
-package gaur.himanshu.workmanageryt.presentation.ui.theme
+package gaur.himanshu.workmanageryt.app.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
