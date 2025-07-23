@@ -15,4 +15,4 @@ class MainActivity : ComponentActivity() {
 }
 
 
-//https://youtu.be/us-GmyBeC3Q?t=896
+//https://youtu.be/us-GmyBeC3Q?t=1131
